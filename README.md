@@ -1,4 +1,6 @@
-queue
+Queue
 =====
 
-hackfosscon'14
+Dealing with lines of waiting customers or students can be cumbersom and annoying. Specifically, when TAs are running office hours for introductory comptuer science classes, we found that there are many students from many different disciplines there to ask questions, which can quickly overwhelm the TAs. At the University of Pennsylvania, it was common practice for TAs to start a queue on a whiteboard in a classroom, and students could add their name to the queue as they found that they needed attention. However, this method was prone to students jumping the queue and writing their name before others. Sometimes students would be forgotten alltogether because of the mess of names on the board. To remedy this, we decided to make Queue. Queue lets University of Pennsylvania students sign in using their email and password and adds them to a help queue for a computer science office hour session that is open. Students can only add themselves once, and this method ensures that every student is treated fairly and chronologically. While students can only add themselves to queues, TAs and instructors can start and stop queues as office hours start and end, and they also have full control over adding or removing specific students. 
+
+Queue runs with HTML/CSS using boostrap and a javascript and Parse backend.
